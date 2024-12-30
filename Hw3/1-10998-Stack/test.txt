@@ -1,0 +1,9 @@
+push 2
+push 120
+pop
+print
+pop
+print
+push 22
+push 35
+print
